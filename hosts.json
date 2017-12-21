@@ -1,0 +1,9 @@
+{
+  "hosts": {
+    "VM Zini": "192.168.2.34",
+    "VM Malagutti":"192.168.2.19",
+    "Google.com": "8.8.8.8",
+    "Royal.Steffo.eu":"51.254.112.211",
+    "Amazon.it":"178.236.6.27"
+  }
+}
